@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-public class Multiplication Table { 
+public class MultiplicationTable { 
   public static void main (String []args) {
     Scanner best = new Scanner (System.in); 
     int input = best.nextInt(); 
