@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-public class Main { 
+public class CAESARCIPHERhomemade { 
     public static void main(String[] args) { 
         Scanner brief = new Scanner (System.in); 
         String besh = brief.nextLine(); 
