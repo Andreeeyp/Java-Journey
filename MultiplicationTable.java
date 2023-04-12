@@ -6,7 +6,7 @@ public class MultiplicationTable {
     int factors = 0; 
     
     for (int i = 1; i <= 10; i++){
-      factors = input * i); 
+      factors = input * i; 
       System.out.println(i + " x " + input + " = " + factors); 
     } 
   }
